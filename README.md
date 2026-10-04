@@ -1,21 +1,14 @@
 # GeoFlare — Industrial Thermal Intelligence
 
-<div align="center">
+ 
 
 **AI-assisted geospatial decision support for detecting, classifying, prioritizing, and investigating persistent industrial thermal anomalies.**
-
-[Live Prototype](#live-prototype) · [Features](#key-features) · [Architecture](#system-workflow) · [Setup](#local-development)
-
-</div>
-
+ 
 ---
 
 ## Live Prototype
 
-> **Add the final Vercel URL here after deployment.**
-
-**GeoFlare:** `https://YOUR-GEOFLARE-URL.vercel.app`
-
+ 
 GeoFlare is designed as a working prototype for **SIH26162 — AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources**.
 
 For SIH evaluation, the live deployment demonstrates the end-to-end prototype: satellite thermal observations → geospatial context → classification/prioritization → analyst investigation → AI-generated operational briefing.
